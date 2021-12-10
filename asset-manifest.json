@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ShopNow/static/css/main.d2a83cce.chunk.css",
+    "main.js": "/ShopNow/static/js/main.47310b5a.chunk.js",
+    "main.js.map": "/ShopNow/static/js/main.47310b5a.chunk.js.map",
+    "runtime-main.js": "/ShopNow/static/js/runtime-main.7c8d34f8.js",
+    "runtime-main.js.map": "/ShopNow/static/js/runtime-main.7c8d34f8.js.map",
+    "static/css/2.78dce04e.chunk.css": "/ShopNow/static/css/2.78dce04e.chunk.css",
+    "static/js/2.137a782a.chunk.js": "/ShopNow/static/js/2.137a782a.chunk.js",
+    "static/js/2.137a782a.chunk.js.map": "/ShopNow/static/js/2.137a782a.chunk.js.map",
+    "static/js/3.5d6ca0c9.chunk.js": "/ShopNow/static/js/3.5d6ca0c9.chunk.js",
+    "static/js/3.5d6ca0c9.chunk.js.map": "/ShopNow/static/js/3.5d6ca0c9.chunk.js.map",
+    "index.html": "/ShopNow/index.html",
+    "static/css/2.78dce04e.chunk.css.map": "/ShopNow/static/css/2.78dce04e.chunk.css.map",
+    "static/css/main.d2a83cce.chunk.css.map": "/ShopNow/static/css/main.d2a83cce.chunk.css.map",
+    "static/js/2.137a782a.chunk.js.LICENSE.txt": "/ShopNow/static/js/2.137a782a.chunk.js.LICENSE.txt",
+    "static/media/Shirt1.2a7a4079.webp": "/ShopNow/static/media/Shirt1.2a7a4079.webp",
+    "static/media/Shirt2.3496c892.webp": "/ShopNow/static/media/Shirt2.3496c892.webp",
+    "static/media/Shirt3.34f8ff86.webp": "/ShopNow/static/media/Shirt3.34f8ff86.webp",
+    "static/media/Shirt4.4349ee05.jpg": "/ShopNow/static/media/Shirt4.4349ee05.jpg",
+    "static/media/Tshirt1.05b4b383.webp": "/ShopNow/static/media/Tshirt1.05b4b383.webp",
+    "static/media/Tshirt2.2f6b0e7e.webp": "/ShopNow/static/media/Tshirt2.2f6b0e7e.webp",
+    "static/media/Tshirt3.06bdf289.webp": "/ShopNow/static/media/Tshirt3.06bdf289.webp",
+    "static/media/Tshirt4.18041f08.webp": "/ShopNow/static/media/Tshirt4.18041f08.webp",
+    "static/media/Tshirt5.123d66ec.webp": "/ShopNow/static/media/Tshirt5.123d66ec.webp",
+    "static/media/Scrip.css": "/ShopNow/static/media/banner.5d6854a5.png",
+    "static/media/bootstrap.min.css": "/ShopNow/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8d34f8.js",
+    "static/css/2.78dce04e.chunk.css",
+    "static/js/2.137a782a.chunk.js",
+    "static/css/main.d2a83cce.chunk.css",
+    "static/js/main.47310b5a.chunk.js"
+  ]
+}
